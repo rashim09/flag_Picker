@@ -1,0 +1,152 @@
+[
+	{
+		"continent": "Africa",
+		"countries": [
+			{
+				"name": "Nigeria",
+				"flag": "🇳🇬",
+				"code": "NG"
+			},
+			{
+				"name": "Ethiopia",
+				"flag": "🇪🇹",
+				"code": "ET"
+			},
+			{
+				"name": "Egypt",
+				"flag": "🇪🇬",
+				"code": "EG"
+			},
+			{
+				"name": "DR Congo",
+				"flag": "🇨🇩",
+				"code": "CD"
+			},
+			{
+				"name": "South Africa",
+				"flag": "🇿🇦",
+				"code": "ZA"
+			}
+		]
+	},
+	{
+		"continent": "America",
+		"countries": [
+			{
+				"name": "USA",
+				"flag": "🇺🇸",
+				"code": "US"
+			},
+			{
+				"name": "Brazil",
+				"flag": "🇧🇷",
+				"code": "BR"
+			},
+			{
+				"name": "Mexico",
+				"flag": "🇲🇽",
+				"code": "MX"
+			},
+			{
+				"name": "Colombia",
+				"flag": "🇨🇴",
+				"code": "CO"
+			},
+			{
+				"name": "Argentina",
+				"flag": "🇦🇷",
+				"code": "AR"
+			}
+		]
+	},
+	{
+		"continent": "Asia",
+		"countries": [
+			{
+				"name": "China",
+				"flag": "🇨🇳",
+				"code": "CN"
+			},
+			{
+				"name": "India",
+				"flag": "🇮🇳",
+				"code": "IN"
+			},
+			{
+				"name": "Indonesia",
+				"flag": "🇮🇩",
+				"code": "ID"
+			},
+			{
+				"name": "Pakistan",
+				"flag": "🇵🇰",
+				"code": "PK"
+			},
+			{
+				"name": "Bangladesh",
+				"flag": "🇧🇩",
+				"code": "BD"
+			}
+		]
+	},
+	{
+		"continent": "Europe",
+		"countries": [
+			{
+				"name": "Russia",
+				"flag": "🇷🇺",
+				"code": "RU"
+			},
+			{
+				"name": "Germany",
+				"flag": "🇩🇪",
+				"code": "DE"
+			},
+			{
+				"name": "UK",
+				"flag": "🇬🇧",
+				"code": "GB"
+			},
+			{
+				"name": "France",
+				"flag": "🇫🇷",
+				"code": "FR"
+			},
+			{
+				"name": "Italy",
+				"flag": "🇮🇹",
+				"code": "IT"
+			}
+		]
+	},
+	{
+		"continent": "Oceania",
+		"countries": [
+			{
+				"name": "Australia",
+				"flag": "🇦🇺",
+				"code": "AU"
+			},
+			{
+				"name": "Papua New Guinea",
+				"flag": "🇵🇬",
+				"code": "PG"
+			},
+			{
+				"name": "New Zealand",
+				"flag": "🇳🇿",
+				"code": "NZ"
+			},
+			{
+				"name": "Fiji",
+				"flag": "🇫🇯",
+				"code": "FJ"
+			},
+			{
+				"name": "Solomon Islands",
+				"flag": "🇸🇧",
+				"code": "SB"
+			}
+		]
+	}
+]
